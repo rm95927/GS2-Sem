@@ -13,5 +13,5 @@ Passo a Passo:
 
 1. Iniciar a API Python no VSCODE e esperar conectar
 2. Iniciar o banco de dados.
-3. Iniciar o projeto e esperar conectar.
+3. Iniciar o projeto no Android Studio e esperar conectar.
 4. Validar o projeto.
