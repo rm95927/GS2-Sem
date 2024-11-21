@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Item Consumo -->
+    <item
+        android:id="@+id/nav_consumo"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Consumo" />
+
+    <!-- Item Dashboard -->
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/baseline_bar_chart_24"
+        android:title="Dashboard" />
+
+    <!-- Item Recomendações -->
+    <item
+        android:id="@+id/nav_recomendacao"
+        android:icon="@drawable/baseline_article_24"
+        android:title="Recomendações" />
+</menu>
+
